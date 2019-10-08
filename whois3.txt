@@ -1,0 +1,79 @@
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       138.23.0.0 - 138.23.255.255
+CIDR:           138.23.0.0/16
+NetName:        UCRNET
+NetHandle:      NET-138-23-0-0-1
+Parent:         NET138 (NET-138-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       AS6106
+Organization:   University of California, Riverside (UNIVER-211)
+RegDate:        1990-01-24
+Updated:        2016-04-19
+Ref:            https://rdap.arin.net/registry/ip/138.23.0.0
+
+
+OrgName:        University of California, Riverside
+OrgId:          UNIVER-211
+Address:        University of California, Riverside
+Address:        Computing and Communications
+City:           Riverside
+StateProv:      CA
+PostalCode:     92521
+Country:        US
+RegDate:        1987-07-07
+Updated:        2017-01-28
+Ref:            https://rdap.arin.net/registry/entity/UNIVER-211
+
+
+OrgAbuseHandle: ABUSE1631-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-951-827-4875 
+OrgAbuseEmail:  abuse@ucr.edu
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE1631-ARIN
+
+OrgTechHandle: TRIST12-ARIN
+OrgTechName:   Tristan, Andrew 
+OrgTechPhone:  +1-951-827-4118 
+OrgTechEmail:  andrew.tristan@ucr.edu
+OrgTechRef:    https://rdap.arin.net/registry/entity/TRIST12-ARIN
+
+RNOCHandle: TRIST12-ARIN
+RNOCName:   Tristan, Andrew 
+RNOCPhone:  +1-951-827-4118 
+RNOCEmail:  andrew.tristan@ucr.edu
+RNOCRef:    https://rdap.arin.net/registry/entity/TRIST12-ARIN
+
+RAbuseHandle: ABUSE1631-ARIN
+RAbuseName:   Abuse
+RAbusePhone:  +1-951-827-4875 
+RAbuseEmail:  abuse@ucr.edu
+RAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE1631-ARIN
+
+RTechHandle: TRIST12-ARIN
+RTechName:   Tristan, Andrew 
+RTechPhone:  +1-951-827-4118 
+RTechEmail:  andrew.tristan@ucr.edu
+RTechRef:    https://rdap.arin.net/registry/entity/TRIST12-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
